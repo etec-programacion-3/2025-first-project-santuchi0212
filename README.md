@@ -39,4 +39,4 @@ el resultado de la suma es: 8
 
 
 
-Proyecto creado por **Santuchi0212** como parte de la clase de programación 2025.
+Proyecto creado por **Santuchi0212**
