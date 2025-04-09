@@ -39,4 +39,4 @@ el resultado de la suma es: 8
 
 
 
-Proyecto creado por **Santuchi0212**
+Proyecto creado por **Santiago Castiñeira de Dios**
